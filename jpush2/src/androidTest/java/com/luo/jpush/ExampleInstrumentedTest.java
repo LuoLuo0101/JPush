@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.luo.jpush", appContext.getPackageName());
+        assertEquals("com.luo.jpush.test", appContext.getPackageName());
     }
 }

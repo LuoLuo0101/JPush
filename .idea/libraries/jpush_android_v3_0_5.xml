@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jpush-android_v3.0.5">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/jpush-android_v3.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jpush2/libs/jpush-android_v3.0.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
