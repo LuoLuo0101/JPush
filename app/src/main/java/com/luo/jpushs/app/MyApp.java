@@ -21,8 +21,7 @@ public class MyApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        // 设置调试模式，这样就有日志信息，当项目上线的时候可以关闭
-        JPushInterface.setDebugMode(true);
+        JPushInterface.setDebugMode(true);  // 设置调试模式
         // JPush 推送 SDK 的初始化
         JPushInterface.init(this);
         HashSet<String> tags = new HashSet<>();
